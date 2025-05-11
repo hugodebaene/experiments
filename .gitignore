@@ -1,0 +1,8 @@
+wasm-game-of-life/target
+**/*.rs.bk
+wasm-game-of-life/Cargo.lock
+wasm-game-of-life/bin/
+wasm-game-of-life/pkg/
+wasm-game-of-life/wasm-pack.log
+
+exp-nn/quaternion-nn/data
